@@ -47,4 +47,4 @@ NOTE: for the Facebook Login button, you need to create an app at [Facebook Deve
 
 ## License
 
-This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT) © Pablo Satler 2018
+This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT) © Armando Gomez 2019
